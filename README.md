@@ -1,0 +1,16 @@
+# SystemProgramming
+
+100/100
+File_Input_Output_and_File_Based_Interprocess_Communication
+
+100/100
+Fun_With_Threads_and_Semaphores
+
+100/100
+POSIX_Threads_and_Synchronization_Thereof
+
+110/130
+Processes_Sockets_Threads_IPC_Synchronization
+
+65/100
+Student_Mess_Hall_of_University
