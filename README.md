@@ -1,16 +1,13 @@
-# SystemProgramming
+# System-Programming
 
-100/100
-File Input Output and File Based Interprocess Communication
+Gebze Technical University System Programming`s projects
 
-100/100
-Fun With Threads and Semaphores
+100/100 File Input Output and File Based Interprocess Communication
 
-100/100
-POSIX Threads and Synchronization Thereof
+100/100 Fun With Threads and Semaphores
 
-110/130
-Processes Sockets Threads IPC Synchronization
+100/100 POSIX Threads and Synchronization Thereof
 
-65/100
-Student Mess Hall of University
+110/130 Processes Sockets Threads IPC Synchronization
+
+65/100 Student Mess Hall of University
